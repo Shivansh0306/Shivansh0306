@@ -1,13 +1,12 @@
 <h1 align="center">Hey 👋, I'm Shivansh Sharma</h1> 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Shivansh+Sharma;AI+%7C+Machine+Learning+%7C+Research;IoT+%2B+Intelligence;Building+Smart+Systems" />
-</p>
+
 
 
 <h3 align="center">AI | Machine Learning | Research | IoT + Intelligence</h3>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5kcmd2eGRjZ3Q2Nzl6YWt1amNuNXB6aTU2dGs1amwyczZwZHY2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="900" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="700" />
 </p>
+
 
 
 ###
